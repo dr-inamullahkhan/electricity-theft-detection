@@ -13,7 +13,7 @@
 
 This repository implements the **PFSC (Preprocessing, First-order and Second-order Classification)** framework for electricity theft detection in smart grids using real-world data from the State Grid Corporation of China (SGCC).
 
-![PFSC Framework](https://via.placeholder.com/800x300?text=PFSC+Framework+Diagram)
+![PFSC Framework](Fig1.png)
 
 ## Framework Architecture
 
