@@ -1,6 +1,6 @@
 # Electricity Theft Detection in Smart Grids (PFSC Framework)
 
-[![IEEE](https://img.shields.io/badge/IEEE-Transactions%20on%20Smart%20Grid-blue)](https://ieeexplore.ieee.org/document/9638472)
+[![IEEE](https://img.shields.io/badge/IEEE-Transactions%20on%20Smart%20Grid-blue)](https://ieeexplore.ieee.org/document/9644473)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-orange)](https://tensorflow.org)
 
