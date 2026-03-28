@@ -15,32 +15,6 @@ This repository implements the **PFSC (Preprocessing, First-order and Second-ord
 
 ![PFSC Framework](Fig1.png)
 
-## Framework Architecture
-
-```
-SGCC Dataset
-    │
-    ▼
-┌─────────────────────────────────┐
-│ Module 1: IONB Data Preparation │
-│  Imputation → Outliers →        │
-│  Normalization → STLU Balancing │
-└─────────────────────────────────┘
-    │
-    ▼
-┌─────────────────────────────────┐
-│ Module 2: Base Classifiers      │
-│  SVM | Random Forest | GBDT     │
-└─────────────────────────────────┘
-    │ (3 prediction features)
-    ▼
-┌─────────────────────────────────┐
-│ Module 3: TCN Meta-Classifier   │
-│  Temporal Convolutional Network │
-│  AUC: 98.5%                     │
-└─────────────────────────────────┘
-```
-
 ## Key Results
 
 | Method | Precision | Recall | F1-Score | AUC |
